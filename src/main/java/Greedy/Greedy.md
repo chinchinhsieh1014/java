@@ -1,0 +1,5 @@
+- makes the locally optimal decision at every step.
+- https://leetcode.com/problems/destroying-asteroids/description/
+- https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+- 

@@ -1,0 +1,8 @@
+- https://leetcode.com/problems/valid-parentheses/description/
+- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
+- https://leetcode.com/problems/backspace-string-compare/description/
+  - String Builder will be faster
+- https://leetcode.com/problems/make-the-string-great/description/
+- https://leetcode.com/problems/simplify-path/description/
+- https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+-  
